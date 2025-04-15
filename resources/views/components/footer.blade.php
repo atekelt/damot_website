@@ -1,63 +1,34 @@
-<footer id="footer" class="footer dark-background">
+<footer id="footer" class="footer dark-background mt-3">
 
     <div class="footer-top">
       <div class="container">
         <div class="row gy-4">
-          <div class="col-lg-4 col-md-6 footer-about">
-            <a href="index.html" class="logo d-flex align-items-center">
-              <span class="sitename">AgriCulture</span>
+          <div class="col-lg-2 col-md-2 footer-about">
+            <a href="index.html" class="img-fluid">
+              <img src="assets/img/footer_logo.png" alt="AgriCulture">
             </a>
+            
+          </div>
+          <div class="col-lg-4 col-md-4 footer-links">
             <div class="footer-contact pt-3">
-              <p>A108 Addis Ababa</p>
+              <p>Addis Ababa</p>
               <p>Ethiopia, Addis Ababa</p>
               <p class="mt-3"><strong>Phone:</strong> <span>+2 5189 55488 55</span></p>
               <p><strong>Email:</strong> <span>info@example.com</span></p>
             </div>
           </div>
 
-          <div class="col-lg-2 col-md-3 footer-links">
+          <div class="col-lg-4 col-md-4 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><a href="#">Home</a></li>
-              <li><a href="#">About us</a></li>
-              <li><a href="#">Services</a></li>
-              <li><a href="#">Terms of service</a></li>
-              <li><a href="#">Privacy policy</a></li>
+              <li><a href="/">Home</a></li>
+              <li><a href="/about">About us</a></li>
+              <li><a href="/service">Services</a></li>
+              <li><a href="/products">Products</a></li>
+              <li><a href="/contact">Contact Us</a></li>
             </ul>
           </div>
 
-          <div class="col-lg-2 col-md-3 footer-links">
-            <h4>Our Services</h4>
-            <ul>
-              <li><a href="#">Web Design</a></li>
-              <li><a href="#">Web Development</a></li>
-              <li><a href="#">Product Management</a></li>
-              <li><a href="#">Marketing</a></li>
-              <li><a href="#">Graphic Design</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-2 col-md-3 footer-links">
-            <h4>Hic solutasetp</h4>
-            <ul>
-              <li><a href="#">Molestiae accusamus iure</a></li>
-              <li><a href="#">Excepturi dignissimos</a></li>
-              <li><a href="#">Suscipit distinctio</a></li>
-              <li><a href="#">Dilecta</a></li>
-              <li><a href="#">Sit quas consectetur</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-2 col-md-3 footer-links">
-            <h4>Nobis illum</h4>
-            <ul>
-              <li><a href="#">Ipsam</a></li>
-              <li><a href="#">Laudantium dolorum</a></li>
-              <li><a href="#">Dinera</a></li>
-              <li><a href="#">Trodelas</a></li>
-              <li><a href="#">Flexo</a></li>
-            </ul>
-          </div>
 
         </div>
       </div>
@@ -71,11 +42,7 @@
             © Copyright <strong><span>LudoEt</span></strong>. All Rights Reserved
           </div>
           <div class="credits">
-            <!-- All the links in the footer should remain intact. -->
-            <!-- You can delete the links only if you purchased the pro version. -->
-            <!-- Licensing information: https://bootstrapmade.com/license/ -->
-            <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/herobiz-bootstrap-business-template/ -->
-            Designed by <a href="https://bootstrapmade.com/">LudoEt</a>
+            Designed by <a href="">LudoEt</a>
           </div>
         </div>
 

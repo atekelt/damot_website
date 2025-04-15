@@ -29,12 +29,12 @@
 
     </section>
 
-    <section id="services" class="services section">
+    {{-- <section id="services" class="services section">
 
       <div class="container section-title" data-aos="fade-up">
         <h2>SERVICES</h2>
         <p>Providing Fresh Produce Every Single Day</p>
-      </div><!-- End Section Title -->
+      </div>
       <div class="content">
         <div class="container">
           <div class="row g-0">
@@ -203,296 +203,186 @@
           </div>
         </div>
       </div>
-    </section><!-- /Services Section -->
+    </section> --}}
+    <section id="about-3" class="about-3 section">
 
-    <!-- About Section -->
+        <div class="container">
+          <div class="row gy-4 justify-content-between align-items-center">
+            <div class="col-lg-6 order-lg-2 position-relative" data-aos="zoom-out">
+              <img src="assets/img/photo_2025-04-16_01-01-36.jpg" alt="Image" class="img-fluid">
+              <a href="assets/videos/home_video_1.mp4" class="glightbox pulsating-play-btn">
+                <span class="play"><i class="bi bi-play-fill"></i></span>
+              </a>
+            </div>
+            <div class="col-lg-5 order-lg-1" data-aos="fade-up" data-aos-delay="100">
+              <h2 class="content-title mb-4">Premium Products, Grown with Purpose</h2>
+              <p class="mb-4">
+                Explore our range of vegetables, fruits, grains, and specialty exports cultivated for quality and sustainability.
+              </p>
+              
+              <p><a href="#" class="btn-cta">See Full Product Range</a></p>
+            </div>
+          </div>
+        </div>
+      </section>
     <section id="about" class="about section">
 
       <div class="content">
         <div class="container">
           <div class="row">
             <div class="col-lg-6 mb-4 mb-lg-0">
-              <img src="assets/img/img_long_5.jpg" alt="Image " class="img-fluid img-overlap" data-aos="zoom-out">
+              <img src="assets/img/photo_2025-04-16_01-01-35.jpg" alt="Image " class="img-fluid img-overlap" data-aos="zoom-out">
             </div>
-            <div class="col-lg-5 ml-auto" data-aos="fade-up" data-aos-delay="100">
-              <h3 class="content-subtitle text-white opacity-50">Why Choose Us</h3>
+            <div class="col-lg-5 ml-auto align-self-center" data-aos="fade-up" data-aos-delay="100">
+              <h3 class="content-subtitle text-white opacity-50">About Us</h3>
               <h2 class="content-title mb-4">
-                More than <strong>50 year experience</strong> in agriculture
-                industry
+                Our Roots:<strong> 2000</strong> to Today.
               </h2>
-              <p class="opacity-50">
-                Reprehenderit, odio laboriosam? Blanditiis quae ullam quasi illum
-                minima nostrum perspiciatis error consequatur sit nulla.
+              <p class="opacity-90">
+                From using hand-held hoses and donkeys to managing over 300 hectares with global exports — our journey reflects hard work, vision, and the strength of local communities.
               </p>
-
-              <div class="row my-5">
-                <div class="col-lg-12 d-flex align-items-start mb-4">
-                  <i class="bi bi-cloud-rain me-4 display-6"></i>
-                  <div>
-                    <h4 class="m-0 h5 text-white">Plants needs rain</h4>
-                    <p class="text-white opacity-50">Lorem ipsum dolor sit amet.</p>
-                  </div>
-                </div>
-                <div class="col-lg-12 d-flex align-items-start mb-4">
-                  <i class="bi bi-heart me-4 display-6"></i>
-                  <div>
-                    <h4 class="m-0 h5 text-white">Love organic foods</h4>
-                    <p class="text-white opacity-50">Lorem ipsum dolor sit amet.</p>
-                  </div>
-                </div>
-                <div class="col-lg-12 d-flex align-items-start">
-                  <i class="bi bi-shop me-4 display-6"></i>
-                  <div>
-                    <h4 class="m-0 h5 text-white">Sell vegies</h4>
-                    <p class="text-white opacity-50">Lorem ipsum dolor sit amet.</p>
-                  </div>
-                </div>
-              </div>
+              <p class="opacity-90">
+                As our ambition grew, so did our operations. Within three years, we were hiring vehicles to transport our produce — a sign of evolution and resilience. 
+              </p>
+              <p><a href="#" class="btn btn-light">Read Our Full Story</a></p>
+              
             </div>
           </div>
         </div>
       </div>
-    </section><!-- /About Section -->
+    </section>
 
-    <!-- About 3 Section -->
     <section id="about-3" class="about-3 section">
 
-      <div class="container">
-        <div class="row gy-4 justify-content-between align-items-center">
-          <div class="col-lg-6 order-lg-2 position-relative" data-aos="zoom-out">
-            <img src="assets/img/img_sq_1.jpg" alt="Image" class="img-fluid">
-            <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn">
-              <span class="play"><i class="bi bi-play-fill"></i></span>
-            </a>
-          </div>
-          <div class="col-lg-5 order-lg-1" data-aos="fade-up" data-aos-delay="100">
-            <h2 class="content-title mb-4">Plants Make Life Better</h2>
-            <p class="mb-4">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              necessitatibus placeat, atque qui voluptatem velit explicabo vitae
-              repellendus architecto provident nisi ullam minus asperiores commodi!
-              Tenetur, repellat aliquam nihil illo.
-            </p>
-            <ul class="list-unstyled list-check">
-              <li>Lorem ipsum dolor sit amet</li>
-              <li>Velit explicabo vitae repellendu</li>
-              <li>Repellat aliquam nihil illo</li>
-            </ul>
+        <div class="container">
+          <div class="row gy-4 justify-content-between align-items-center">
+            <div class="col-lg-6 order-lg-2 position-relative" data-aos="zoom-out">
+              <img src="assets/img/320.jpg" alt="Image" class="img-fluid">
+              
+            </div>
+            <div class="col-lg-5 order-lg-1" data-aos="fade-up" data-aos-delay="100">
+              <h2 class="content-title mb-4">Rooted in Sustainability, Grown for Impact</h2>
 
-            <p><a href="#" class="btn-cta">Get in touch</a></p>
+              <ul class="list-unstyled list-check">
+                <li>800+ permanent staff employed</li>
+                <li>Eco-friendly farming practices</li>
+                <li>Transparent, USD-based investment operations</li>
+                <li>Community development programs</li>
+              </ul>
+  
+              <p><a href="#" class="btn-cta">Explore Our Impact</a></p>
+            </div>
           </div>
         </div>
-      </div>
-    </section><!-- /About 3 Section -->
+      </section>
+    
 
     <!-- Services 2 Section -->
     <section id="services-2" class="services-2 section dark-background">
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Services</h2>
-        <p>Necessitatibus eius consequatur</p>
-      </div><!-- End Section Title -->
-
-      <div class="services-carousel-wrap">
-        <div class="container">
-          <div class="swiper init-swiper">
-            <script type="application/json" class="swiper-config">
-              {
-                "loop": true,
-                "speed": 600,
-                "autoplay": {
-                  "delay": 5000
-                },
-                "slidesPerView": "auto",
-                "pagination": {
-                  "el": ".swiper-pagination",
-                  "type": "bullets",
-                  "clickable": true
-                },
-                "navigation": {
-                  "nextEl": ".js-custom-next",
-                  "prevEl": ".js-custom-prev"
-                },
-                "breakpoints": {
-                  "320": {
-                    "slidesPerView": 1,
-                    "spaceBetween": 40
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+          <h2>Products </h2>
+          <p>We grow a wide variety of high-quality crops, cultivated with care and harvested with precision. Our products meet both local demands and international quality standards.</p>
+        </div><!-- End Section Title -->
+  
+        <div class="services-carousel-wrap">
+          <div class="container">
+            <div class="swiper init-swiper">
+              <script type="application/json" class="swiper-config">
+                {
+                  "loop": true,
+                  "speed": 600,
+                  "autoplay": {
+                    "delay": 5000
                   },
-                  "1200": {
-                    "slidesPerView": 3,
-                    "spaceBetween": 40
+                  "slidesPerView": "auto",
+                  "pagination": {
+                    "el": ".swiper-pagination",
+                    "type": "bullets",
+                    "clickable": true
+                  },
+                  "navigation": {
+                    "nextEl": ".js-custom-next",
+                    "prevEl": ".js-custom-prev"
+                  },
+                  "breakpoints": {
+                    "320": {
+                      "slidesPerView": 1,
+                      "spaceBetween": 40
+                    },
+                    "1200": {
+                      "slidesPerView": 3,
+                      "spaceBetween": 40
+                    }
                   }
                 }
-              }
-            </script>
-            <button class="navigation-prev js-custom-prev">
-              <i class="bi bi-arrow-left-short"></i>
-            </button>
-            <button class="navigation-next js-custom-next">
-              <i class="bi bi-arrow-right-short"></i>
-            </button>
-            <div class="swiper-wrapper">
-              <div class="swiper-slide">
-                <div class="service-item">
-                  <div class="service-item-contents">
-                    <a href="#">
-                      <span class="service-item-category">We do</span>
-                      <h2 class="service-item-title">Planting</h2>
-                    </a>
+              </script>
+              <button class="navigation-prev js-custom-prev">
+                <i class="bi bi-arrow-left-short"></i>
+              </button>
+              <button class="navigation-next js-custom-next">
+                <i class="bi bi-arrow-right-short"></i>
+              </button>
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <div class="service-item">
+                    <div class="service-item-contents">
+                      <a href="#">
+                        <span class="service-item-category">We do</span>
+                        <h2 class="service-item-title">Vegetables </h2>
+                      </a>
+                    </div>
+                    <img src="assets/img/vegetables.jpg" alt="Image" class="img-fluid">
                   </div>
-                  <img src="assets/img/img_sq_1.jpg" alt="Image" class="img-fluid">
+                </div>
+                <div class="swiper-slide">
+                  <div class="service-item">
+                    <div class="service-item-contents">
+                      <a href="#">
+                        <span class="service-item-category">We do</span>
+                        <h2 class="service-item-title">Fruits </h2>
+                      </a>
+                    </div>
+                    <img src="assets/img/fruits.jpg" alt="Image" class="img-fluid">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="service-item">
+                    <div class="service-item-contents">
+                      <a href="#">
+                        <span class="service-item-category">We do</span>
+                        <h2 class="service-item-title">Grains & Legumes</h2>
+                      </a>
+                    </div>
+                    <img src="assets/img/grains&legumes.jpg" alt="Image" class="img-fluid">
+                  </div>
+                </div>
+  
+                <div class="swiper-slide">
+                  <div class="service-item">
+                    <div class="service-item-contents">
+                      <a href="#">
+                        <span class="service-item-category">We do</span>
+                        <h2 class="service-item-title">Specialty Crops</h2>
+                      </a>
+                    </div>
+                    <img src="assets/img/specialtycrops.jpg" alt="Image" class="img-fluid">
+                  </div>
                 </div>
               </div>
-              <div class="swiper-slide">
-                <div class="service-item">
-                  <div class="service-item-contents">
-                    <a href="#">
-                      <span class="service-item-category">We do</span>
-                      <h2 class="service-item-title">Mulching</h2>
-                    </a>
-                  </div>
-                  <img src="assets/img/img_sq_3.jpg" alt="Image" class="img-fluid">
-                </div>
-              </div>
-              <div class="swiper-slide">
-                <div class="service-item">
-                  <div class="service-item-contents">
-                    <a href="#">
-                      <span class="service-item-category">We do</span>
-                      <h2 class="service-item-title">Watering</h2>
-                    </a>
-                  </div>
-                  <img src="assets/img/img_sq_8.jpg" alt="Image" class="img-fluid">
-                </div>
-              </div>
-
-              <div class="swiper-slide">
-                <div class="service-item">
-                  <div class="service-item-contents">
-                    <a href="#">
-                      <span class="service-item-category">We do</span>
-                      <h2 class="service-item-title">Fertilizing</h2>
-                    </a>
-                  </div>
-                  <img src="assets/img/img_sq_4.jpg" alt="Image" class="img-fluid">
-                </div>
-              </div>
-              <div class="swiper-slide">
-                <div class="service-item">
-                  <div class="service-item-contents">
-                    <a href="#">
-                      <span class="service-item-category">We do</span>
-                      <h2 class="service-item-title">Harvesting</h2>
-                    </a>
-                  </div>
-                  <img src="assets/img/img_sq_5.jpg" alt="Image" class="img-fluid">
-                </div>
-              </div>
-              <div class="swiper-slide">
-                <div class="service-item">
-                  <div class="service-item-contents">
-                    <a href="#">
-                      <span class="service-item-category">We do</span>
-                      <h2 class="service-item-title">Mowing</h2>
-                    </a>
-                  </div>
-                  <img src="assets/img/img_sq_6.jpg" alt="Image" class="img-fluid">
-                </div>
-              </div>
-              <div class="swiper-slide">
-                <div class="service-item">
-                  <div class="service-item-contents">
-                    <a href="#">
-                      <span class="service-item-category">We do</span>
-                      <h2 class="service-item-title">Seeding Plants</h2>
-                    </a>
-                  </div>
-                  <img src="assets/img/img_sq_8.jpg" alt="Image" class="img-fluid">
-                </div>
-              </div>
-            </div>
-            <div class="swiper-pagination"></div>
-          </div>
-        </div>
-      </div>
-    </section><!-- /Services 2 Section -->
-
-    <!-- Testimonials Section -->
-    <section class="testimonials-12 testimonials section" id="testimonials">
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>TESTIMONIALS</h2>
-        <p>Necessitatibus eius consequatur</p>
-      </div><!-- End Section Title -->
-
-      <div class="testimonial-wrap">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-6 mb-4 mb-md-4">
-              <div class="testimonial">
-                <img src="assets/img/testimonials/testimonials-1.jpg" alt="Testimonial author">
-                <blockquote>
-                  <p>
-                    “Lorem ipsum dolor sit, amet consectetur adipisicing
-                    elit. Provident deleniti iusto molestias, dolore vel fugiat
-                    ab placeat ea?”
-                  </p>
-                </blockquote>
-                <p class="client-name">James Smith</p>
-              </div>
-            </div>
-            <div class="col-md-6 mb-4 mb-md-4">
-              <div class="testimonial">
-                <img src="assets/img/testimonials/testimonials-2.jpg" alt="Testimonial author">
-                <blockquote>
-                  <p>
-                    “Lorem ipsum dolor sit, amet consectetur adipisicing
-                    elit. Provident deleniti iusto molestias, dolore vel fugiat
-                    ab placeat ea?”
-                  </p>
-                </blockquote>
-                <p class="client-name">Kate Smith</p>
-              </div>
-            </div>
-            <div class="col-md-6 mb-4 mb-md-4">
-              <div class="testimonial">
-                <img src="assets/img/testimonials/testimonials-3.jpg" alt="Testimonial author">
-                <blockquote>
-                  <p>
-                    “Lorem ipsum dolor sit, amet consectetur adipisicing
-                    elit. Provident deleniti iusto molestias, dolore vel fugiat
-                    ab placeat ea?”
-                  </p>
-                </blockquote>
-                <p class="client-name">Claire Anderson</p>
-              </div>
-            </div>
-            <div class="col-md-6 mb-4 mb-md-4">
-              <div class="testimonial">
-                <img src="assets/img/testimonials/testimonials-4.jpg" alt="Testimonial author">
-                <blockquote>
-                  <p>
-                    “Lorem ipsum dolor sit, amet consectetur adipisicing
-                    elit. Provident deleniti iusto molestias, dolore vel fugiat
-                    ab placeat ea?”
-                  </p>
-                </blockquote>
-                <p class="client-name">Dan Smith</p>
-              </div>
+              <div class="swiper-pagination"></div>
             </div>
           </div>
         </div>
-      </div>
-    </section><!-- /Testimonials Section -->
+      </section>
 
-    <!-- Recent Posts Section -->
+
     <section id="recent-posts" class="recent-posts section">
 
-      <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Recent Posts</h2>
-        <p>Necessitatibus eius consequatur</p>
-      </div><!-- End Section Title -->
+        <h2>From the Field: Our Blog</h2>
+        <p>Stay updated with stories, insights, and updates from our growing journey. </p>
+      </div>
 
       <div class="container">
 

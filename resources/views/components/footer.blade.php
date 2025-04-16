@@ -4,7 +4,7 @@
       <div class="container">
         <div class="row gy-4">
           <div class="col-lg-2 col-md-2 footer-about">
-            <a href="index.html" class="img-fluid">
+            <a href="/" class="img-fluid">
               <img src="assets/img/footer_logo.png" alt="AgriCulture">
             </a>
             

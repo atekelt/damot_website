@@ -13,8 +13,8 @@
             <div class="footer-contact pt-3">
               <p>Addis Ababa</p>
               <p>Ethiopia, Addis Ababa</p>
-              <p class="mt-3"><strong>Phone:</strong> <span>+2 5189 55488 55</span></p>
-              <p><strong>Email:</strong> <span>info@example.com</span></p>
+              <p class="mt-3"><strong>Phone:</strong> <span>+251999999999</span></p>
+              <p><strong>Email:</strong> <span>info@damot.com</span></p>
             </div>
           </div>
 

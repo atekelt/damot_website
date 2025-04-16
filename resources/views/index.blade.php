@@ -13,12 +13,12 @@
             <h2>From Humble Beginnings to Global Impact</h2>
             <p>Discover the inspiring journey of a local farm that grew from a single hectare into one of Ethiopia’s leading agricultural exporters.</p>
             <div class="d-flex justify-content-center gap-3 mt-4">
-                <a class="btn btn-outline-success d-flex align-items-center justify-content-center text-white">
+                <a href="/about" class="btn btn-outline-success d-flex align-items-center justify-content-center text-white">
                     Learn More
                 </a>
-                <button class="btn btn-outline-success d-flex align-items-center justify-content-center text-white">
+                <a href="/product" class="btn btn-outline-success d-flex align-items-center justify-content-center text-white">
                     Explore Our Products
-                </button>
+                </a>
             </div>
             
           </div>
@@ -45,7 +45,7 @@
                 Explore our range of vegetables, fruits, grains, and specialty exports cultivated for quality and sustainability.
               </p>
               
-              <p><a href="#" class="btn-cta">See Full Product Range</a></p>
+              <p><a href="/product" class="btn-cta">See Full Product Range</a></p>
             </div>
           </div>
         </div>
@@ -69,7 +69,7 @@
               <p class="opacity-90">
                 As our ambition grew, so did our operations. Within three years, we were hiring vehicles to transport our produce — a sign of evolution and resilience. 
               </p>
-              <p><a href="#" class="btn btn-light">Read Our Full Story</a></p>
+              <p><a href="/about" class="btn btn-light">Read Our Full Story</a></p>
               
             </div>
           </div>
@@ -95,7 +95,7 @@
                 <li>Community development programs</li>
               </ul>
   
-              <p><a href="#" class="btn-cta">Explore Our Impact</a></p>
+              <p><a href="/impact" class="btn-cta">Explore Our Impact</a></p>
             </div>
           </div>
         </div>
@@ -212,7 +212,7 @@
         <div class="row gy-5">
 
           <div class="col-xl-4 col-md-6">
-            <div class="post-item position-relative h-100" data-aos="fade-up" data-aos-delay="100">
+            <div class="post-item position-relative h-100" data-aos="fade-up" data-aos-delay="50">
 
               <div class="post-img position-relative overflow-hidden">
                 <img src="assets/img/blog/blog-1.jpg" class="img-fluid" alt="">
@@ -235,7 +235,7 @@
 
                 <hr>
 
-                <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                <a href="#" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
 
               </div>
 

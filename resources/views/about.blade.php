@@ -2,7 +2,18 @@
 
 
 @section('content')
-
+<div class="page-title dark-background" data-aos="fade" style="background-image: url(assets/img/page-title-bg.webp);">
+  <div class="container position-relative">
+    <h1>About Us</h1>
+    <p></p>
+    <nav class="breadcrumbs">
+      <ol>
+        <li><a href="index.html">Home</a></li>
+        <li class="current">About Us</li>
+      </ol>
+    </nav>
+  </div>
+</div>
 <section class="py-5 bg-light">
   <div class="container">
     

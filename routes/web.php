@@ -17,3 +17,9 @@ Route::get('/product', function () {
 Route::get('/impact', function () {
     return view('impact');
 });
+Route::get('/export', function () {
+    return view('export');
+});
+Route::get('/contact', function () {
+    return view('contact');
+});

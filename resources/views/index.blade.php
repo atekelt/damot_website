@@ -202,7 +202,7 @@
 
     <section id="recent-posts" class="recent-posts section">
 
-      <div class="container section-title" data-aos="fade-up">
+      <div class="container section-title" >
         <h2>From the Field: Our Blog</h2>
         <p>Stay updated with stories, insights, and updates from our growing journey. </p>
       </div>
@@ -212,7 +212,7 @@
         <div class="row gy-5">
 
           <div class="col-xl-4 col-md-6">
-            <div class="post-item position-relative h-100" data-aos="fade-up" data-aos-delay="50">
+            <div class="post-item position-relative h-100" >
 
               <div class="post-img position-relative overflow-hidden">
                 <img src="assets/img/blog/blog-1.jpg" class="img-fluid" alt="">
@@ -243,7 +243,7 @@
           </div>
 
           <div class="col-xl-4 col-md-6">
-            <div class="post-item position-relative h-100" data-aos="fade-up" data-aos-delay="200">
+            <div class="post-item position-relative h-100" >
 
               <div class="post-img position-relative overflow-hidden">
                 <img src="assets/img/blog/blog-2.jpg" class="img-fluid" alt="">
@@ -273,7 +273,7 @@
             </div>
           </div>
 
-          <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-xl-4 col-md-6" >
             <div class="post-item position-relative h-100">
 
               <div class="post-img position-relative overflow-hidden">

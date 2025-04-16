@@ -9,6 +9,8 @@
             </a>
             
           </div>
+          <div class="col-lg-2 col-md-2 footer-links">
+          </div>
           <div class="col-lg-4 col-md-4 footer-links">
             <div class="footer-contact pt-3">
               <p>Addis Ababa</p>

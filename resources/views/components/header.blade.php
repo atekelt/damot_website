@@ -10,7 +10,7 @@
           <li><a href="/" class="{{ request()->is('/') ? 'active' : '' }}">Home</a></li>
           <li><a href="/about" class="{{ request()->is('about') ? 'active' : '' }}">About Us</a></li>
           <li><a href="/product" class="{{ request()->is('product') ? 'active' : '' }}">Products </a></li>
-          <li><a href="" class="{{ request()->is('impact') ? 'active' : '' }}">Sustainability & Impact</a></li>
+          <li><a href="/impact" class="{{ request()->is('impact') ? 'active' : '' }}">Sustainability & Impact</a></li>
           <li><a href="" class="{{ request()->is('export') ? 'active' : '' }}">Export & Logistics</a></li>
           <li><a href="" class="{{ request()->is('blog') ? 'active' : '' }}">Blogs</a></li>
           <li><a href="" class="{{ request()->is('contact') ? 'active' : '' }}">Contact</a></li>

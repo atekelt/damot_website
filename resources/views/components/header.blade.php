@@ -8,12 +8,12 @@
       <nav id="navmenu" class="navmenu">
         <ul>
           <li><a href="/" class="{{ request()->is('/') ? 'active' : '' }}">Home</a></li>
-          <li><a href="/about" class="{{ request()->is('about') ? 'active' : '' }}">About Us</a></li>
-          <li><a href="/product" class="{{ request()->is('product') ? 'active' : '' }}">Products </a></li>
-          <li><a href="/impact" class="{{ request()->is('impact') ? 'active' : '' }}">Sustainability & Impact</a></li>
-          <li><a href="/export" class="{{ request()->is('export') ? 'active' : '' }}">Export & Logistics</a></li>
-          <li><a href="" class="{{ request()->is('blog') ? 'active' : '' }}">Blogs</a></li>
-          <li><a href="/contact" class="{{ request()->is('contact') ? 'active' : '' }}">Contact</a></li>
+          <li><a href="{{ url('/about') }}" class="{{ request()->is('about') ? 'active' : '' }}">About Us</a></li>
+          <li><a href="{{ url('/product') }}" class="{{ request()->is('product') ? 'active' : '' }}">Products </a></li>
+          <li><a href="{{ url('/impact') }}" class="{{ request()->is('impact') ? 'active' : '' }}">Sustainability & Impact</a></li>
+          <li><a href="{{ url('/export') }}" class="{{ request()->is('export') ? 'active' : '' }}">Export & Logistics</a></li>
+          <li><a href="#" class="{{ request()->is('blog') ? 'active' : '' }}">Blogs</a></li>
+          <li><a href="{{ url('/contact') }}" class="{{ request()->is('contact') ? 'active' : '' }}">Contact</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>

@@ -1,8 +1,8 @@
 <header id="header" class="header d-flex align-items-center position-relative">
     <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
 
-      <a href="/" class="logo d-flex align-items-center">
-        <img src="assets/img/logo.png" alt="AgriCulture">
+      <a href="/" class="d-flex align-items-center" style="width: 7%">
+        <img src="assets/img/new_logo.jpg" alt="Damot">
       </a>
 
       <nav id="navmenu" class="navmenu">

@@ -56,7 +56,7 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-6 mb-4 mb-lg-0">
-              <img src="assets/img/photo_2025-04-16_01-01-35.jpg" alt="Image " class="img-fluid img-overlap" data-aos="zoom-out">
+              <img src="assets/img/photo_2025-04-17_00-32-05.jpg" alt="Image " class="img-fluid img-overlap" data-aos="zoom-out">
             </div>
             <div class="col-lg-5 ml-auto align-self-center" data-aos="fade-up" data-aos-delay="100">
               <h3 class="content-subtitle text-white opacity-50">About Us</h3>
@@ -82,7 +82,7 @@
         <div class="container">
           <div class="row gy-4 justify-content-between align-items-center">
             <div class="col-lg-6 order-lg-2 position-relative" data-aos="zoom-out">
-              <img src="assets/img/320.jpg" alt="Image" class="img-fluid">
+              <img src="assets/img/photo_2025-04-17_00-31-52.jpg" alt="Image" class="img-fluid">
               
             </div>
             <div class="col-lg-5 order-lg-1" data-aos="fade-up" data-aos-delay="100">

@@ -30,7 +30,7 @@
         </div>
         <div class="col-md-6">
           <div class="rounded shadow-sm overflow-hidden">
-            <img src="assets/img/img_sq_6.jpg" alt="Farm Timeline" class="img-fluid w-100">
+            <img src="assets/img/photo_2025-04-17_00-32-05.jpg" alt="Farm Timeline" class="img-fluid w-100">
           </div>
           <small class="text-muted d-block text-center mt-2"></small>
         </div>
@@ -50,7 +50,7 @@
         </div>
         <div class="col-md-6 order-md-1">
           <div class="rounded shadow-sm overflow-hidden">
-            <img src="assets/img/img_sq_1.jpg" alt="Farm Export Aerial" class="img-fluid w-100">
+            <img src="assets/img/blog-1.jpg" alt="Farm Export Aerial" class="img-fluid w-100">
           </div>
           <small class="text-muted d-block text-center mt-2"></small>
         </div>

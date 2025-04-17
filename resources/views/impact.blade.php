@@ -26,7 +26,7 @@
   
       <div class="row align-items-center mb-5">
         <div class="col-md-6">
-          <img src="assets/img/2148803904.jpg" alt="Sustainable Investment" class="img-fluid rounded shadow-sm w-100">
+          <img src="assets/img/photo_2025-04-17_00-31-52.jpg" alt="Sustainable Investment" class="img-fluid rounded shadow-sm w-100">
           <small class="text-muted d-block text-center mt-2">Collaborative partnerships and transparent investments</small>
         </div>
         <div class="col-md-6">
@@ -42,7 +42,7 @@
   
       <div class="row align-items-center mb-5">
         <div class="col-md-6 order-md-2">
-          <img src="assets/img/320.jpg" alt="Social Responsibility in Farming" class="img-fluid rounded shadow-sm w-100">
+          <img src="assets/img/photo_2025-04-16_01-01-36.jpg" alt="Social Responsibility in Farming" class="img-fluid rounded shadow-sm w-100">
           <small class="text-muted d-block text-center mt-2">Community involvement and sustainable agricultural practices</small>
         </div>
         <div class="col-md-6 order-md-1">

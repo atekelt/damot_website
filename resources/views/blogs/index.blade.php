@@ -53,26 +53,25 @@
     
                     <div class="post-content d-flex flex-column">
                         <h3 class="post-title">{{ $blog->title }}</h3>
-                        <p>{{ Str::limit($blog->content, 100) }}</p>
+                        <p>{!! Str::limit($blog->content, 100) !!}</p>
                         <a href="{{ route('blogs.show', $blog) }}" class="readmore stretched-link">
                             <span>Read More</span><i class="bi bi-arrow-right"></i>
                         </a>
-    
-                        @auth
-                            @if (auth()->id() === $blog->user_id)
-                                <div class="mt-3 d-flex gap-2">
-                                    <a href="{{ route('blogs.edit', $blog) }}" class="btn btn-sm btn-outline-primary">Edit</a>
-                                    <form action="{{ route('blogs.destroy', $blog) }}" method="POST" onsubmit="return confirmDelete();">
-                                        @csrf
-                                        @method('DELETE')
-                                        <button type="submit" class="btn btn-sm btn-danger">Delete</button>
-                                    </form>
-                                </div>
-                            @endif
-                        @endauth
                     </div>
-    
+                    
                 </article>
+                @auth
+                    @if (auth()->id() === $blog->user_id)
+                        <div class="mt-3 d-flex gap-2">
+                            <a href="{{ route('blogs.edit', $blog) }}" class="btn btn-sm btn-outline-primary">Edit</a>
+                            <form action="{{ route('blogs.destroy', $blog) }}" method="POST" onsubmit="return confirmDelete();">
+                                @csrf
+                                @method('DELETE')
+                                <button type="submit" class="btn btn-sm btn-danger">Delete</button>
+                            </form>
+                        </div>
+                    @endif
+                @endauth
             </div>
         @endforeach
     </div>
@@ -84,5 +83,9 @@
     </script>
       </div>
     </div>
+    <div class="mt-4 d-flex justify-content-center">
+    {{ $blogs->links('pagination::bootstrap-5') }}
+</div>
 </section>
+
 @endsection

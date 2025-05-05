@@ -24,7 +24,7 @@
           <li><a href="{{ url('/product') }}" class="{{ request()->is('product') ? 'active' : '' }}">Products </a></li>
           <li><a href="{{ url('/impact') }}" class="{{ request()->is('impact') ? 'active' : '' }}">Sustainability & Impact</a></li>
           <li><a href="{{ url('/export') }}" class="{{ request()->is('export') ? 'active' : '' }}">Export & Logistics</a></li>
-          <li><a href="#" class="{{ request()->is('blog') ? 'active' : '' }}">Blogs</a></li>
+          <li><a href="{{ route('blogs.index') }}" class="{{ request()->is('blog') ? 'active' : '' }}">Blogs</a></li>
           <li><a href="{{ url('/contact') }}" class="{{ request()->is('contact') ? 'active' : '' }}">Contact</a></li>
       
           @auth
@@ -35,7 +35,7 @@
             <li>
               <form action="{{ route('logout') }}" method="POST" style="display:inline;">
                 @csrf
-                <button type="submit" class="nav-link btn btn-link" style="padding: 0; margin: 0; border: none; background: none;">
+                <button type="submit" class="nav-link btn btn-link text-danger" style="padding: 0; margin: 0; border: none; background: none;">
                   Logout
                 </button>
               </form>

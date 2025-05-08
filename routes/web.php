@@ -3,11 +3,14 @@
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\BlogController;
 use Illuminate\Support\Facades\Route;
-
+use App\Models\Blog;
+// Route::get('/', function () {
+//     return view('index');
+// });
 Route::get('/', function () {
-    return view('index');
+    $blogs = Blog::latest()->take(3)->get();
+    return view('index', compact('blogs')); 
 });
-
 Route::get('/about', function () {
     return view('about');
 });
